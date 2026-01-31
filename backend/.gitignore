@@ -1,0 +1,10 @@
+repos/
+vector_stores/
+__pycache__/
+*.pyc
+.env
+*.index
+*.metadata
+*.log
+.DS_Store
+status_store.json
